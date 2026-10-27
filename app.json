@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "check",
+    "slug": "check",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["ios", "android", "web"],
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.generated.check" },
+    "android": { "package": "com.generated.check", "softwareKeyboardLayoutMode": "pan" }
+  }
+}
